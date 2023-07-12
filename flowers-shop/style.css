@@ -14,7 +14,7 @@ header{
     align-items: center;
     margin-bottom: 80px;
 }
-.header-banner{
+.header-banner-section{
     margin-left: 100px;
 }
 .header-img{
@@ -42,14 +42,14 @@ header{
     margin-top: 50px;
     align-items: center;
 }
-.feature-flower1{
+.feature-flower-one{
     background: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
     text-align: center;
     width: 380px;
     height: 471px;
 }
-.feature-flower2{
+.feature-flower-two{
     background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     text-align: center;
@@ -57,7 +57,7 @@ header{
     height: 471px;
     
 }
-.feature-flower3{
+.feature-flower-three{
     background: rgba(71, 125, 17, 0.15);
     border-radius: 300px 300px 0px 0px;
     text-align: center;
@@ -106,6 +106,13 @@ header{
     margin-top: 48px;
 }
 
+
+
+
+.why-flower-para{
+    padding: 50px 100px;
+    line-height: 30px;
+}
 /* subscribe section style */
 .subscribe{
     background-image: url('./Flower Asset/Rectangle 9.png');
